@@ -1,1 +1,2 @@
 text 3 file from dev branch
+added by master branch
